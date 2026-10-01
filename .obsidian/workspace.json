@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "resources/physics-2/lectures/Lecture 12 -Waves - 2026-summer.pdf"
+                "file": "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 12 -Waves - 2026-summer"
+              "title": "Lecture 10 - Magnetic field - 2026-summer"
             }
           },
           {
@@ -25,14 +25,37 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "resources/circuit-theor-2/books/Electric Circuit Analysis Cal Poly State University -- Alexander, Sadiku -- 2014 -- Mc Graw Hill -- isbn13 9781308104560 -- f9fecf59595269a056990fa8c3f986df -- Anna’s Archive.pdf"
+                "file": "resources/physics-2/exercises/set5.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Electric Circuit Analysis Cal Poly State University -- Alexander, Sadiku -- 2014 -- Mc Graw Hill -- isbn13 9781308104560 -- f9fecf59595269a056990fa8c3f986df -- Anna’s Archive"
+              "title": "set5"
+            }
+          },
+          {
+            "id": "d8b25a314589d207",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/physics-2/lectures/Lecture 9-Electric field-2025-26.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 9-Electric field-2025-26"
+            }
+          },
+          {
+            "id": "f1f2f970429fa0b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/physics-2/lectures/Lecture 11 - Maxwell equations - 2025-26.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 11 - Maxwell equations - 2025-26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +75,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 500.5
   },
   "right": {
     "id": "77922b9036872af3",
@@ -206,24 +231,25 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "1d7600a9ff1daaf1",
+  "active": "7f85c4dc7be8a719",
   "lastOpenFiles": [
-    "resources/circuit-theor-2/lectures/CT_Lecture_2_05_TwoPort.pdf",
-    "resources/physics-2/exercises/set5.pdf",
+    "resources/analogue-electronic-circuits-1/lectures",
+    "resources/analogue-electronic-circuits-1/lab-manuals",
+    "resources/analogue-electronic-circuits-1/exercises",
+    "resources/analogue-electronic-circuits-1/books",
+    "lab-manuals",
+    "exercises",
+    "books",
+    "lectures",
     "Measurements.md",
-    "resources/physics-2/exercises/set7.pdf",
-    "resources/physics-2/exercises/set6.pdf",
-    "resources/physics-2/exercises/PhysicsII_7(26).pdf",
-    "resources/physics-2/exercises/PhysicsII_6(26).pdf",
-    "resources/physics-2/lectures/Lecture 12 -Waves - 2026-summer.pdf",
-    "tree/branches/Wave Interference.md",
-    "resources/mathematical-analysis-2/exercises/analysis2_01_series_number_power_Taylor_short.pdf",
-    "resources/mathematical-analysis-2/lectures/Fourier_basic_formulae.pdf",
-    "resources/mathematical-analysis-2/lectures/Lect01_Power_Series.pdf",
-    "resources/mathematical-analysis-2/lectures/complex_Fourier.pdf",
-    "Home.md",
-    "Note Template.md",
+    "resources/analogue-electronic-circuits-1",
+    "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf",
+    "resources/physics-2/exercises/set4.pdf",
     "README.md",
+    "Note Template.md",
+    "untitled.md",
+    "tree/branches/Wave Interference.md",
+    "Home.md",
     "Untitled 1.md",
     "tree/branches/Citation formats.md",
     "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
@@ -242,7 +268,6 @@
     "tree/roots/Probability Theory and Statistics.md",
     "tree/roots/Introduction into Academic English.md",
     "resources/Untitled.md",
-    "resources/methodology-and-programming-techniques-2/Untitled.md",
-    "UntitledFormat of.md"
+    "resources/methodology-and-programming-techniques-2/Untitled.md"
   ]
 }

@@ -1,0 +1,1 @@
+ingle bit duration $28\miu s$  
