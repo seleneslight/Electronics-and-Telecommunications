@@ -13,10 +13,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf"
+                "file": "resources/computational-techniques/books/MATLAB for Engineers, EBook, Global Edition -- HOLLY_ MOORE -- 1, 5, 2018 -- Pearson Higher Education & Professional Group -- isbn13 9780134589640 -- 19121c53b7a8512a6d506775faef2898 -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 10 - Magnetic field - 2026-summer"
+              "title": "MATLAB for Engineers, EBook, Global Edition -- HOLLY_ MOORE -- 1, 5, 2018 -- Pearson Higher Education & Professional Group -- isbn13 9780134589640 -- 19121c53b7a8512a6d506775faef2898 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "e6cfba9484915cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tree/roots/Digital Electronics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Electronics"
             }
           },
           {
@@ -55,7 +69,8 @@
               "title": "Lecture 11 - Maxwell equations - 2025-26"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +120,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -231,20 +249,20 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "7f85c4dc7be8a719",
+  "active": "e6cfba9484915cdf",
   "lastOpenFiles": [
-    "resources/analogue-electronic-circuits-1/lectures",
-    "resources/analogue-electronic-circuits-1/lab-manuals",
-    "resources/analogue-electronic-circuits-1/exercises",
-    "resources/analogue-electronic-circuits-1/books",
-    "lab-manuals",
-    "exercises",
-    "books",
-    "lectures",
+    "tree/roots/Digital Electronics.md",
+    "resources/computational-techniques/books/MATLAB for Engineers, EBook, Global Edition -- HOLLY_ MOORE -- 1, 5, 2018 -- Pearson Higher Education & Professional Group -- isbn13 9780134589640 -- 19121c53b7a8512a6d506775faef2898 -- Anna’s Archive.pdf",
+    "resources/digital-electronics/lectures",
+    "resources/digital-electronics",
+    "resources/computational-techniques/books/MATLAB 5 for engineers -- Biran, Adrian; Breiner, Moshe; Biran, Adrian_ MATLAB for -- 2nd ed_, Harlow, England, Reading, Mass, England, 1999 -- isbn13 9780201360431 -- 7580d613c7c84c201a2f620a03f2c9b1 -- Anna’s Archive.pdf",
+    "resources/computational-techniques/lectures/lecture-1.pdf",
+    "resources/computational-techniques/lectures/2026-10-03-Note-11-29_annotated.pdf",
+    "resources/circuit-theory-2/books/Electric Circuit Analysis Cal Poly State University -- Alexander, Sadiku -- 2014 -- Mc Graw Hill -- isbn13 9781308104560 -- f9fecf59595269a056990fa8c3f986df -- Anna’s Archive.pdf",
+    "resources/computational-techniques/books/Numerical Recipes in C_ The Art of Scientific Computing, -- Press W_H_, Teukolsky S_A_, Vetterling W_T_, Flannery B_P_ -- 2nd ed, 1997 -- Cambridge -- isbn13 9780521431088 -- 1141b9eeaebb4d6cc1845b83f4464768 -- Anna’s Archive-2.pdf",
+    "resources/analogue-electronic-circuits-1/lectures/2026-10-01-Note-13-00.pdf",
+    "resources/computational-techniques/lectures/CT_2026_lecture_1.pdf",
     "Measurements.md",
-    "resources/analogue-electronic-circuits-1",
-    "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf",
-    "resources/physics-2/exercises/set4.pdf",
     "README.md",
     "Note Template.md",
     "untitled.md",
@@ -267,7 +285,6 @@
     "How to defend against bullshit.md",
     "tree/roots/Probability Theory and Statistics.md",
     "tree/roots/Introduction into Academic English.md",
-    "resources/Untitled.md",
-    "resources/methodology-and-programming-techniques-2/Untitled.md"
+    "resources/Untitled.md"
   ]
 }
